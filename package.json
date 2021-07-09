@@ -1,0 +1,10 @@
+{ 
+  "scripts":{
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^9.9.0",
+    "nodemon": "^2.0.7"
+  }
+  
+}
